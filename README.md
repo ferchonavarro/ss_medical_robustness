@@ -5,7 +5,8 @@ Source code for our paper "Evaluating-the-Robustness-of-Self-Supervised-Learning
 
 Authors: Fernando Navarro, Christopher Watanabe, Suprosanna Shit, Anjany Sekuboyina,  Jan Peeken , Stephanie E. Combs, and Bjoern H. Menze.
 
-<img src="./model_architecture_transfer.png"/>
+![model_architecture_transfer](https://user-images.githubusercontent.com/19378667/118306535-dd69a500-b4e9-11eb-85b9-f529c0c5bbd0.png)
+
 
 ## Getting Started
 ### Pre-requisites
